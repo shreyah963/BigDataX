@@ -1,4 +1,4 @@
-# Creating a Distributed System Middle-ware: Implementing and Optimizing X-Search
+# Creating a Distributed System Middle-ware: Implementing and Optimizing X-Searches
 
 
 ## Overview
